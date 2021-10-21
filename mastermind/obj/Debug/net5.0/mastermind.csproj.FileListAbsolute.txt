@@ -1,0 +1,16 @@
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.csproj.AssemblyReference.cache
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
