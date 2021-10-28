@@ -4,6 +4,7 @@ namespace mastermind
 {
     class Program
     {
+        // main function 
         static void Main(string[] args)
         {
 			int[] combi;
@@ -11,8 +12,9 @@ namespace mastermind
             Afficher(combi);
         }
 
-        
-        static void ChoixCombi(out int[] combi){
+        // 
+        static void ChoixCombi(out int[] combi)
+        {
             combi = new int[4];
             Random rnd = new Random();
             for(int i = 0; i <= 3; i++){
@@ -21,7 +23,8 @@ namespace mastermind
             }
         }
 
-        static void Afficher(int[] combi) {
+        static void Afficher(int[] combi) 
+        {
             for(int i = 0; i <= 3; i++){
                 Console.Write(combi[i]);
             }
