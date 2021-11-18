@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4o/UlKMZ4lE4N/GuOEBGApk1vkFC8jT9R4oI5jRBXAe+V1LamRgDIBXAuTsOdQerlYU7bKFHntPGk+pNVnMtOA==",
+  "dgSpecHash": "tTG0SRQ0Hux8Ov8Lh1raHqy/6Igf+MX0aD5dm+nHPgb3B+CJAQSR+53fsMDhv3QmCob8/GVUohE9oi0E/wNAcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryckb\\Desktop\\Mastermind\\mastermind\\mastermind.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ryckb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\190133\\Documents\\Mastermind\\mastermind\\mastermind.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

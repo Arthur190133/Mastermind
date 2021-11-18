@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryckb\\Desktop\\Mastermind\\mastermind\\mastermind.csproj": {}
+    "C:\\Users\\190133\\Documents\\Mastermind\\mastermind\\mastermind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryckb\\Desktop\\Mastermind\\mastermind\\mastermind.csproj": {
+    "C:\\Users\\190133\\Documents\\Mastermind\\mastermind\\mastermind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryckb\\Desktop\\Mastermind\\mastermind\\mastermind.csproj",
+        "projectUniqueName": "C:\\Users\\190133\\Documents\\Mastermind\\mastermind\\mastermind.csproj",
         "projectName": "mastermind",
-        "projectPath": "C:\\Users\\ryckb\\Desktop\\Mastermind\\mastermind\\mastermind.csproj",
-        "packagesPath": "C:\\Users\\ryckb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryckb\\Desktop\\Mastermind\\mastermind\\obj\\",
+        "projectPath": "C:\\Users\\190133\\Documents\\Mastermind\\mastermind\\mastermind.csproj",
+        "packagesPath": "C:\\Users\\190133\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\190133\\Documents\\Mastermind\\mastermind\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryckb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\190133\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.9, 5.0.9]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21458.32\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

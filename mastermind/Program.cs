@@ -26,10 +26,10 @@ namespace mastermind
 
         static void Main()
         {
-            last_round[] all_round = new last_round[1];
+            last_round[] all_round = new last_round[1]; // tous les rounds jouer 
 
-            color[] secret_combi;
-            color[] player_combi = new color [4];
+            color[] secret_combi; // combinaison secrete 
+            color[] player_combi = new color [4]; // combinaison du joueur
 
             bool correct_combi = false;
 
@@ -84,7 +84,6 @@ namespace mastermind
             const int d_max_game = 3;
 
             bool correct = false;
-            bool color_limit = false;
 
             string custom_settings = "";
 
@@ -94,14 +93,14 @@ namespace mastermind
 
             if (custom_settings == "OUI")
             {
-                while (correct == false && color_limit == false)
+                while (correct == false)
                 {
                     try
                     {
                         Console.WriteLine("\n\r\n\rEntrez le nombre maximum de manches pour trouver la combinaison secrete ");
                         Console.WriteLine("________________________________________________________________________\n\r");
                         max_round = Int32.Parse(Console.ReadLine());
-                        Console.WriteLine("Entrez le nombre maximum de parties à remporter");
+                        Console.WriteLine("Entrez le nombre maximum de parties à jouer");
                         Console.WriteLine("________________________________________________________________________");
                         max_game = Int32.Parse(Console.ReadLine());
                         Console.WriteLine("");
@@ -200,8 +199,9 @@ namespace mastermind
         static void Get_player_combi_white(color[] player_combi, color[] secret_combi, ref int combi_white)
         {
 
-           List<color> All_ready_in = new List<color>();
+           List<color> All_ready_in = new List<color>(); // liste des couleurs qui peuvent être pion blanc
 
+            // ajouter toutes les couleurs dans All_ready_in
            for(int a = 0; a < 4; a++)
             {
                 All_ready_in.Add(secret_combi[a]);
@@ -238,20 +238,22 @@ namespace mastermind
             string rounds_summary = ""; 
             string restart = "";
 
-            // 
+            //  ajouter les pions blancs / rouges et que le round est passé dans all_round
             all_round[current_round - 1].player_combi = new color[4];
             all_round[current_round - 1].combi_bp = combi_red;
             all_round[current_round - 1].combi_bv = combi_white;
             all_round[current_round - 1].past_round = true;
+
+            // ajouter la combinaison du joueur all_round
             for(int i = 0; i< 4; i++)
             {
                 all_round[current_round - 1].player_combi[i] = player_combi[i];
             }
 
-            combi_red = 0;
-            combi_white = 0;
+            combi_red = 0; // mettre à 0 le nombre de pions rouges
+            combi_white = 0; // mettre à 0 le nombre de pions blancs
 
-            // show last rounds
+            // afficher tous les derniers rounds
             Console.WriteLine("\n\r\n\rVoici vos essaies précedents : ");
             Console.WriteLine("--------------------------------------\n\r");
             for (int i = 0; i < all_round.Length; i++)
@@ -285,7 +287,7 @@ namespace mastermind
                 }
                 else
                 {
-                    //End of current game 
+                    //Fin de la partie actuelle
                     Console.WriteLine($"\n\r\n\rVous n'avez plus d'essais \n\rVous aviez {max_round} essai(s)");
                     Console.WriteLine("Voici la combinaison secrete ! \n\r\n\r");
                     Show_secret_cobmbi(secret_combi);
@@ -294,20 +296,20 @@ namespace mastermind
 
                 if (current_game < max_game)
                 {
-                    //start new game
+                    //commencer une nouvelle partie
                     random_secret_combi(out secret_combi);
                     start_game(ref current_game);
                 }
                 else
                 {
-                    //end game 
+                    //fin du jeu
                     Console.WriteLine($"Vous avez joué {max_game} parties\n\rVous avez gagné {total_game_win} parties\n\r");
                     Console.WriteLine("------------------------------------------------------------------------------");
                     Console.WriteLine("Voulez vous rejouer ? ");
                     restart = Console.ReadLine();
                     restart = restart.ToUpper();
 
-                    //restard game 
+                    //relancer le jeu
                     if (restart == "OUI")
                     {
                         //restart
