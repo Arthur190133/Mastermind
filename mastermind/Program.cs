@@ -88,7 +88,7 @@ namespace mastermind
             const int d_max_round = 12; // nombre par défault de manche
             const int d_max_game = 3; // nombre par défault de partie
 
-            bool correct = false; // les régles du jeu sont correctes ( par default = false )
+            bool correct_rules = false; // les régles du jeu sont correctes ( par default = false )
 
             string custom_settings = "NON"; // Le joueur veut personnaliser les règles ( par défault = false ) 
 
@@ -100,7 +100,7 @@ namespace mastermind
             // Personnaliser les règles si le joueur le veut 
             if (custom_settings == "OUI")
             {
-                while (correct == false)
+                while (correct_rules == false)
                 {
                     try
                     {
@@ -115,7 +115,7 @@ namespace mastermind
                         max_game = Int32.Parse(Console.ReadLine());
 
                         Console.WriteLine("");
-                        correct = true;
+                        correct_rules = true;
                         all_round = new last_round [max_round];
                     }
                     catch
@@ -222,25 +222,25 @@ namespace mastermind
         static void Get_player_combi_white(color[] player_combi, color[] secret_combi, ref int combi_white)
         {
 
-           List<color> All_ready_in = new List<color>(); // liste des couleurs qui peuvent être pion blanc
+           List<color> Already_in = new List<color>(); // liste des couleurs qui peuvent être pion blanc
 
             // ajouter toutes les couleurs dans All_ready_in
            for(int a = 0; a < 4; a++)
             {
-                All_ready_in.Add(secret_combi[a]);
+                Already_in.Add(secret_combi[a]);
             } 
 
 
             for (int i = 0; i < 4; i++)
             {
-                if ((player_combi[i] != secret_combi[i]) & (All_ready_in.Contains(player_combi[i])))
+                if ((player_combi[i] != secret_combi[i]) & (Already_in.Contains(player_combi[i])))
                 {
                     combi_white++;
-                    All_ready_in.Remove(player_combi[i]);
+                    Already_in.Remove(player_combi[i]);
                 }
                 
             }
-            All_ready_in.Clear();
+            Already_in.Clear();
             Console.WriteLine($"{combi_white} : blanc(s)");
             
         }
