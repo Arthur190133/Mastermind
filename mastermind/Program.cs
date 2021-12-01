@@ -22,7 +22,6 @@ namespace mastermind
             public color[] player_combi;
             public int combi_bp;
             public int combi_bv;
-            public bool past_round;
         }
 
         static void Main()
@@ -264,11 +263,10 @@ namespace mastermind
             string rounds_summary = " "; // somaire de toutes les manches
             string restart = "NON"; // relancer le jeu ( par défault = False ) 
 
-            //  ajouter les pions blancs / rouges et que le round est passé dans all_round
+            //  ajouter les pions blancs / rouges et la combinaison du joueur dans all_round
             all_round[current_round - 1].player_combi = new color[4];
             all_round[current_round - 1].combi_bp = combi_red;
             all_round[current_round - 1].combi_bv = combi_white;
-            all_round[current_round - 1].past_round = true;
 
             // ajouter la combinaison du joueur all_round
             for(int i = 0; i< 4; i++)
@@ -282,11 +280,8 @@ namespace mastermind
             // afficher tous les derniers rounds
             Console.WriteLine("\n\r\n\rVoici vos essaies précedents : ");
             Console.WriteLine("--------------------------------------\n\r");
-            for (int i = 0; i < all_round.Length; i++)
+            for (int i = 0; i < current_round; i++)
             {
-                // Si la manche est passée 
-                if (all_round[i].past_round == true)
-                {
                     // Ajouter le numéro de la manche et le nombre de pion rouge
                     rounds_summary = $"manche : {i + 1}   | { all_round[i].combi_bp} : rouge(s) |  ";
                     for (int o = 0; o <4; o++)
@@ -299,9 +294,6 @@ namespace mastermind
 
                     // Afficher toutes les manches précédentes 
                     Console.WriteLine(value: $"{rounds_summary}");
-                    Console.WriteLine("-----------------------------------------------------------------------------------------");
-                }
-
             }
 
             // Si le nombre actuelle de manche est égale au nombre maxium de manche OU que la combinaison du joueur est correcte
