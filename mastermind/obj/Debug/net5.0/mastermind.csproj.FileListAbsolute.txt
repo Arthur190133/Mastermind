@@ -1,0 +1,128 @@
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.csproj.AssemblyReference.cache
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\demab.asty-moulin.000\Desktop\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csprojAssemblyReference.cache
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\190133\Documents\master\Mastermind\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\190133\Documents\master\Mastermind\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\190133\Documents\master\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\190133\Documents\master\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\190133\Documents\master\Mastermind\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\190133\Documents\master\Mastermind\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\190133\Documents\master\Mastermind\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\190133\Documents\master\Mastermind\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
+C:\Users\190133\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\190133\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\190133\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\190133\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\190133\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\190133\Desktop\Mastermind\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\190133\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csprojAssemblyReference.cache
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\190133\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.csproj.AssemblyReference.cache
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.csproj.AssemblyReference.cache
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind_ - Copie\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
+C:\Users\ryckb\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\ryckb\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\ryckb\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\ryckb\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\ryckb\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csproj.AssemblyReference.cache
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
+C:\Users\190133\Documents\Mastermind\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\190133\Documents\Mastermind\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\190133\Documents\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\190133\Documents\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\190133\Documents\Mastermind\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\190133\Documents\Mastermind\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\190133\Documents\Mastermind\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csprojAssemblyReference.cache
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\190133\Documents\Mastermind\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\bin\Debug\net5.0\mastermind.exe
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\bin\Debug\net5.0\mastermind.deps.json
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.json
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\bin\Debug\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\bin\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\bin\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\bin\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csproj.AssemblyReference.cache
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.dll
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.pdb
+C:\Users\ryckb\Documents\git\Mastermind\mastermind\obj\Debug\net5.0\mastermind.genruntimeconfig.cache

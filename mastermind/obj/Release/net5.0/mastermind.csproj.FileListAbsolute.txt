@@ -1,0 +1,15 @@
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Release\net5.0\mastermind.exe
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Release\net5.0\mastermind.deps.json
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Release\net5.0\mastermind.runtimeconfig.json
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Release\net5.0\mastermind.runtimeconfig.dev.json
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Release\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Release\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\bin\Release\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\mastermind.AssemblyInfoInputs.cache
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\mastermind.AssemblyInfo.cs
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\mastermind.csproj.CoreCompileInputs.cache
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\ref\mastermind.dll
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\mastermind.pdb
+C:\Users\ryckb\Desktop\Mastermind_\mastermind\obj\Release\net5.0\mastermind.genruntimeconfig.cache
